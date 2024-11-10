@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1731261229
+timestamp 1731264290
 << nwell >>
 rect 24654 16815 26560 16831
 rect 24267 15777 26560 16815
@@ -168,9 +168,9 @@ rect 22634 0 22814 200
 rect 26498 0 26678 2526
 rect 30362 0 30542 2902
 use tdc  tdc_0 ~/Documents/Time_Domain_Comparator_ITS/mag
-timestamp 1731261117
+timestamp 1731264199
 transform 0 -1 24988 1 0 8540
-box -4836 -3709 9311 2246
+box -4838 -4378 9914 2894
 << labels >>
 flabel metal4 s 28766 44952 28826 45152 0 FreeSans 480 90 0 0 clk
 port 0 nsew signal input

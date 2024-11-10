@@ -1,9 +1,9 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1731261117
+timestamp 1731264199
 << dnwell >>
-rect -4234 -3709 9311 2246
+rect -4838 -4378 9914 2894
 << nwell >>
 rect 7237 -446 8275 129
 rect -3854 -546 6074 -544
