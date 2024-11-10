@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+komparator ini bekerja dengan memanfaatkan delay pafa delay element yang dikontrol oleh perbedaan tegangan pada input
 
 ## How to test
 
