@@ -13,8 +13,8 @@ komparator ini bekerja dengan memanfaatkan delay pafa delay element yang dikontr
 
 ## How to test
 
-Explain how to use your project
+tinggal pasang aja
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+osiloskop
